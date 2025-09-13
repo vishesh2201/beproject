@@ -52,7 +52,7 @@ export default function Auth() {
                 </div>
 
                 <h2 className="text-2xl sm:text-3xl font-extrabold text-center mb-4 sm:mb-6" style={{ color: '#52154E' }}>
-                    {isLogin ? 'Login to Your Account' : 'Create Your Account'}
+                    {isLogin ? 'Login' : 'Create Your Account'}
                 </h2>
 
                 {error && (
