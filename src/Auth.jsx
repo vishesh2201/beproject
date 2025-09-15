@@ -92,7 +92,7 @@ export default function Auth() {
                     </div>
 
                     <h2 className="text-2xl sm:text-3xl font-semibold text-left mb-4 sm:mb-6 pl-8" style={{ color: '#292929' }}>
-                        {isLogin ? 'Login to Zentrya' : 'Sign Up for Zentrya'}
+                        {isLogin ? 'Login to Zen' : 'Sign Up for Zentrya'}
                     </h2>
 
                     {error && (
