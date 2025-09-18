@@ -71,7 +71,7 @@ export default function Auth() {
                         </span>
                     </h1>
                     <p style={{ color: '#fff', fontSize: '1.2rem', marginTop: '1.2rem', maxWidth: 400, opacity: 0.85, fontFamily: 'Poppins, sans-serif' }}>
-                        Security That Works—So You Don’t Have to Worry.
+                        Security That Works—-So You Don’t Have to Worry.
                     </p>
                 </div>
                 {/* Right form */}
